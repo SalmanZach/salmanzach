@@ -1,6 +1,7 @@
 ### Hi there 👋
  
-- 🔭 Currently working on android app.
+- 🔭 Currently working on Android Applications.
+
 
 
 - 💬 Ask me about Java, Kotlin, Android Arcs etc.
